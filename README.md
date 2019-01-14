@@ -9,6 +9,13 @@ Familiarity with `html` and `d3.js`, as well as hierarchical data/`.json` format
 ```sh
 git clone https://github.com/danielc92/network-graph-images.git
 ```
+**How to use:**
+Open `.html` file in browser to view chart.
+
+# Files
+- Original Files 
+  * `marvel.html`
+  * `marvel.json`
 
 # Tests
 - Tests performed on this project. What did you do? Which files were used? Was it successful?
